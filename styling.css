@@ -1,0 +1,29 @@
+#login{
+    background-image: url('nietb.jpeg');background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#page{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+nav{
+    float: right;
+}
+#about{
+    background-color: rgb(184, 179, 179);
+}
+#department
+{
+    background-image: url('dept.jpg');background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size:cover;
+}
+#register
+{
+    background-image: url('nietb.jpeg');background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; text-align: center;
+}
